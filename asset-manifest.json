@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Akozyrev222/homeworks/static/css/main.1ac6951e.chunk.css",
+    "main.js": "/Akozyrev222/homeworks/static/js/main.dd2900eb.chunk.js",
+    "main.js.map": "/Akozyrev222/homeworks/static/js/main.dd2900eb.chunk.js.map",
+    "runtime-main.js": "/Akozyrev222/homeworks/static/js/runtime-main.f4178f71.js",
+    "runtime-main.js.map": "/Akozyrev222/homeworks/static/js/runtime-main.f4178f71.js.map",
+    "static/js/2.490fbe74.chunk.js": "/Akozyrev222/homeworks/static/js/2.490fbe74.chunk.js",
+    "static/js/2.490fbe74.chunk.js.map": "/Akozyrev222/homeworks/static/js/2.490fbe74.chunk.js.map",
+    "index.html": "/Akozyrev222/homeworks/index.html",
+    "precache-manifest.2318fece516e89db68149dd5aca8f601.js": "/Akozyrev222/homeworks/precache-manifest.2318fece516e89db68149dd5aca8f601.js",
+    "service-worker.js": "/Akozyrev222/homeworks/service-worker.js",
+    "static/css/main.1ac6951e.chunk.css.map": "/Akozyrev222/homeworks/static/css/main.1ac6951e.chunk.css.map",
+    "static/js/2.490fbe74.chunk.js.LICENSE.txt": "/Akozyrev222/homeworks/static/js/2.490fbe74.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f4178f71.js",
+    "static/js/2.490fbe74.chunk.js",
+    "static/css/main.1ac6951e.chunk.css",
+    "static/js/main.dd2900eb.chunk.js"
+  ]
+}
