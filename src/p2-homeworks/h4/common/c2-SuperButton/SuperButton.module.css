@@ -1,5 +1,17 @@
 .default {
-
+    background: #fff;
+    box-shadow: 0 30px 60px 0 rgba(90, 116, 148, 0.4);
+    border-radius: 5px;
+    max-width: 480px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    left: 0;
+    right: 0;
+    border-top: 5px solid #0e3721;
+    /*   z-index: 1; */
+    animation: bounce 1.5s infinite;
 }
 
 .red {
